@@ -1,4 +1,4 @@
-# Estatística Aplicada
+# Estatística Aplicada - Fatec Garça
 
 Elaborado programa para calcular os seguintes dados.
 
