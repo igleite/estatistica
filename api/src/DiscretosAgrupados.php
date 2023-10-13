@@ -27,7 +27,7 @@ class DiscretosAgrupados
         return count($data);
     }
 
-    /**
+    /**;
      * @param array $data
      * @return array|null
      */
